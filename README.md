@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sportsperson Image Classifer**
 
-- 🌱 I’m currently learning **Deep Learning and Model Deployment using Flask**
+- 🌱 I’m currently learning **Tableau**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
 
