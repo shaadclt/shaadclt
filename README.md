@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaadclt" alt="shaadclt" /></a> </p>
 
-- 🔭 I’m currently working on **Sportsperson Image Classifer**
+- 🔭 I’m currently working on **Twitter Hashtag Analysis**
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
 
