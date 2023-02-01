@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shaad</h1>
-<h3 align="center">A Self-taught Data Scientist from India</h3>
+<h3 align="center">Software Development (Apprentice) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaadclt&label=Profile%20views&color=0e75b6&style=flat" alt="shaadclt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaadclt" alt="shaadclt" /></a> </p>
 
-- 🔭 I’m currently working on **Malaria Disease Detection using Deep Learning**
+- 🔭 I’m currently remotely working as Software Development (Apprentice) at **Atlas Analytics, Singapore**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Low code/No code Tools**
 
-- 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Data Analysis projects**
 
 - 📫 How to reach me **shaadclt@gmail.com**
 
