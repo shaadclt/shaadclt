@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently remotely working as Software Development (Apprentice) at **Atlas Analytics, Singapore**
 
-- 🌱 I’m currently learning **Low code/No code Tools**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👯 I’m looking to collaborate on **Data Analysis projects**
 
