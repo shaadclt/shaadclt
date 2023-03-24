@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaadclt" alt="shaadclt" /></a> </p>
 
-- 🔭 I’m currently remotely working as Software Development (Apprentice) at **Atlas Analytics, Singapore**
+- 🔭 I’m currently remotely working as Software Development (Apprentice) at **Atlas Analytics, Singapore**.
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics**.
 
-- 👯 I’m looking to collaborate on **Data Analysis projects**
+- 👯 I’m looking to collaborate on **Data Analysis projects**.
 
-- 📫 How to reach me **shaadclt@gmail.com**
+- 📫 How to reach me **mail@imshaad.in** or **www.imshaad.in**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
