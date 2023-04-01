@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaadclt" alt="shaadclt" /></a> </p>
 
-- 🔭 I’m currently remotely working as Software Development (Apprentice) at **Atlas Analytics, Singapore**.
+- 🔭 I’m a **Self-Taught Data Scientist** from India.
 
 - 🌱 I’m currently learning **Tensorflow**.
 
-- 👯 I’m looking to collaborate on **Data Analysis projects**.
+- 👯 I’m looking to collaborate on **Data Science projects**.
 
 - 📫 How to reach me **mail@imshaad.in** or **www.imshaad.in**.
 
