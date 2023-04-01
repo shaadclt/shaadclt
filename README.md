@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shaad</h1>
-<h3 align="center">Software Development (Apprentice) </h3>
+<h3 align="center">Self-Taught Data Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaadclt&label=Profile%20views&color=0e75b6&style=flat" alt="shaadclt" /> </p>
 
