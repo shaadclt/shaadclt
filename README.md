@@ -7,7 +7,7 @@
 
 - 🔭 I’m a **Self-Taught Data Scientist** from India.
 
-- 🌱 I’m currently learning **Tensorflow**.
+- 🌱 I’m currently learning **Computer Vision**.
 
 - 👯 I’m looking to collaborate on **Data Science projects**.
 
