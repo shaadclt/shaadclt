@@ -79,7 +79,7 @@
 </div>  
 
 ## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shaadclt&theme=onedark&title=Stars,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shaadclt&theme=onedark&title=Stars,Followers,Repositories,Commits)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
