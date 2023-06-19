@@ -1,5 +1,5 @@
 <div align="center">
-![0_oHwW14arOJOAy7Pm](https://github.com/shaadclt/shaadclt/assets/98437584/393dba2e-7fec-4673-88a0-f2cabec59a6d)
+<img src="https://miro.medium.com/max/875/1*RmyTDFTZkk-SLWEfqLBEFw.jpeg" align="center" style="width: 100%" />
 
 </div>  
   
