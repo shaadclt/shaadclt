@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" align="center" style="width: 40%" />
-
+<img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Mohamed Shaad, a self-taught Data Scientist from India</div>  
+# <div align="center">I'm Mohamed Shaad, a Self-taught Data Scientist from India</div>  
   
 
 - 🌱 I’m currently learning **Cloud Deployment**  
