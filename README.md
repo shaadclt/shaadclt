@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Data Science Projects**  
   
 
-- 💻 All of my projects are available at [https://imshaad.in/](https://imshaad.in/)  
+- 💻 All of my projects are available at [https://imshaad.in/](https://imshaad.in/#portfolio)  
   
 
 - 📫 How to reach me **shaadclt@gmail.com**  
