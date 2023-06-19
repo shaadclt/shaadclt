@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:720/0*oHwW14arOJOAy7Pm.gif" align="center" style="width: 100%" />
+![0_oHwW14arOJOAy7Pm](https://github.com/shaadclt/shaadclt/assets/98437584/393dba2e-7fec-4673-88a0-f2cabec59a6d)
+
 </div>  
   
 
