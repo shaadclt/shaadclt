@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://miro.medium.com/max/875/1*RmyTDFTZkk-SLWEfqLBEFw.jpeg" align="center" style="width: 50%" />
+<img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" align="center" style="width: 50%" />
 
 </div>  
   
