@@ -6,7 +6,7 @@
 # <div align="center">I'm Mohamed Shaad, a Self-taught Data Scientist from India</div>  
   
 
-- 🌱 I’m currently learning **Cloud Deployment**  
+- 🌱 I’m currently learning **Natural Language Processing**  
   
 
 - 👯 I’m looking to collaborate on **Data Science Projects**  
