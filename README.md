@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Mohamed Shaad, a Self-taught Data Scientist (Former Project Engineer) from India</div>  
+# <div align="center">I'm Mohamed Shaad, a Self-taught Data Scientist with an Engineering Edge.  
   
 
 - 🌱 I’m currently learning about **Large Language Models.**  
