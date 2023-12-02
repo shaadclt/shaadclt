@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Mohamed Shaad, a Self-taught Data Scientist with an Engineering Edge.  
+# <div align="center">I'm Mohamed Shaad, an Engineer turned Data Scientist.  
   
 
 - 🌱 I’m currently learning about **LangChain and LLMs.**  
