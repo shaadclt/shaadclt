@@ -6,7 +6,7 @@
 # <div align="center">I'm Mohamed Shaad, a Self-taught Data Scientist with an Engineering Edge.  
   
 
-- 🌱 I’m currently learning about **Large Language Models.**  
+- 🌱 I’m currently learning about **LangChain and LLMs.**  
   
 
 - 👯 I’m looking to collaborate on **Data Science Projects**  
