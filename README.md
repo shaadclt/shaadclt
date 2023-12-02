@@ -9,13 +9,13 @@
 - 🌱 I’m currently learning about **LangChain and LLMs.**  
   
 
-- 👯 I’m looking to collaborate on **NLP Projects**  
+- 👯 I’m looking to collaborate on **NLP Projects**.  
   
 
-- 💻 My projects are available at [https://imshaad.in/portfolio](https://imshaad.in/#portfolio)  
+- 💻 My projects are available at [https://imshaad.in/portfolio](https://imshaad.in/#portfolio).  
   
 
-- 📫 You can reach me at **shaadclt@gmail.com**  
+- 📫 You can reach me at **shaadclt@gmail.com**.  
   
 
 <br/>  
