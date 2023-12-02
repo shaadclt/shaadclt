@@ -12,10 +12,10 @@
 - 👯 I’m looking to collaborate on **NLP Projects**  
   
 
-- 💻 All of my projects are available at [https://imshaad.in/portfolio](https://imshaad.in/#portfolio)  
+- 💻 My projects are available at [https://imshaad.in/portfolio](https://imshaad.in/#portfolio)  
   
 
-- 📫 How to reach me **shaadclt@gmail.com**  
+- 📫 You can reach me at **shaadclt@gmail.com**  
   
 
 <br/>  
