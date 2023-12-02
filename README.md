@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning about **LangChain and LLMs.**  
   
 
-- 👯 I’m looking to collaborate on **Data Science Projects**  
+- 👯 I’m looking to collaborate on **NLP Projects**  
   
 
 - 💻 All of my projects are available at [https://imshaad.in/portfolio](https://imshaad.in/#portfolio)  
