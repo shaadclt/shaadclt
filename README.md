@@ -6,7 +6,7 @@
 # <div align="center">I'm Mohamed Shaad, a Self-taught Data Scientist with background in Project Management.  
   
 
-- 🌱 I’m currently learning about **LangChain and LLMs.**  
+- 🌱 I’m currently learning about **Llamaindex and LLMs.**  
   
 
 - 👯 I’m looking to collaborate on **NLP Projects**.  
