@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Mohamed Shaad, a Self-taught Data Scientist with internship experience in Data Analysis and Data Pipeline Development.  
+# <div align="center">I'm Mohamed Shaad, a Self-taught Data Scientist with experience in Data Analysis and Data Pipeline Development.  
   
 
 - 🌱 I’m currently learning about **LLMs.**  
