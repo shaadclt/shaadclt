@@ -3,10 +3,10 @@
 </div>  
   
 
-# <div align="center">I'm Mohamed Shaad, a Data Scientist with experience in Data Analysis and Data Pipeline Development.  
+# <div align="center">I'm Mohamed Shaad, Data Scientist at Metridash.  
   
 
-- 🌱 I’m currently exploring **Latest Advancements in Natural Language Processing**.  
+- 🌱 I’m currently exploring **Gen AI**.  
   
 
 - 👯 I’m looking to collaborate on **NLP Projects**.  
