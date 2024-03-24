@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Mohamed Shaad, Data Scientist at Metridash.  
+# <div align="center">I'm Mohamed Shaad, Data Scientist from India.  
   
 
 - 🌱 I’m currently exploring **Gen AI**.  
