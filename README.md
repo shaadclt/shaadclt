@@ -9,7 +9,7 @@
 - 🌱 I’m currently exploring **Generative AI**.  
   
 
-- 👯 I’m looking to collaborate on **NLP Projects**.  
+- 👯 I’m looking to collaborate on **Gen AI and NLP Projects**.  
     
 
 - 📫 You can reach me at **shaadclt@gmail.com**.  
