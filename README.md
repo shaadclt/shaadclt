@@ -6,7 +6,7 @@
 # <div align="center">I'm Mohamed Shaad, Data Scientist from India.  
   
 
-- 🌱 I’m currently exploring **Generative AI for content creation**.  
+- 🌱 I’m currently exploring **Latest Advancements in Gen AI**.  
   
 
 - 👯 I’m looking to collaborate on **Gen AI and NLP Projects**.  
