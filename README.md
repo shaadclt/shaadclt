@@ -6,7 +6,7 @@
 # <div align="center">I'm Mohamed Shaad, Data Scientist from India.  
   
 
-- 🌱 I’m currently exploring **AI Agents**.  
+- 🌱 I’m currently exploring **Agentic Automation**.  
   
 
 - 👯 I’m looking to collaborate on **Gen AI and NLP Projects**.  
