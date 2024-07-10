@@ -1,7 +1,5 @@
 <div align="center">
 
-https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif
-
 <img src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif" align="center" style="width: 50%" />
 </div>  
   
