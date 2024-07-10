@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif" align="center" style="width: 50%" />
+<img src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif" align="center" style="width: 75%" />
 </div>  
   
 
