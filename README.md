@@ -27,7 +27,6 @@ I'm currently building data-driven solutions that enhance brand-influencer colla
 <br/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshaadk&theme=dark&hide_border=false" alt="GitHub Streak" /><br>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshaadk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 <br/> 
 </div>
