@@ -15,7 +15,8 @@ I'm currently building data-driven solutions that enhance brand-influencer colla
 </p>
 
 ## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shaadclt&theme=onedark&title=Stars,Followers,Repositories,Commits&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=shaadclt&theme=onedark&title=Stars,Followers,Repositories,Commits&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)</div>
 
 
 
