@@ -22,15 +22,15 @@ I'm currently building data-driven solutions that enhance brand-influencer colla
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shaadclt&show_icons=true&count_private=true&hide_border=true&hide=prs,issues,contribs&theme=dark" align="center" /></div>  <br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaadclt&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaadclt&hide_border=true&layout=compact&theme=dark" align="center" />  
 
 <br/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshaadk&theme=dark&hide_border=false" alt="GitHub Streak" /><br>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshaadk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
 
-<br/>  
+<br/> 
+</div>
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/shaadclt" target="_blank" style="display: inline-block;">
