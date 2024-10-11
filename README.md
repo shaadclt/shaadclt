@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm [**Mohamed Shaad**](https://www.linkedin.com/in/mohamedshaad/), a passionate **Data Scientist** and **Machine Learning Engineer**. 
+Hi there! I'm <h1>[**Mohamed Shaad**]</h1>(https://www.linkedin.com/in/mohamedshaad/), a passionate **Data Scientist** and **Machine Learning Engineer**. 
 
 # 🧑‍💻 What I Do:<br>
 I'm currently building data-driven solutions that enhance brand-influencer collaborations at [BrandCollab](https://brandcollab.app/).
