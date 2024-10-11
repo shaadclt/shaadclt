@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm <span style="font-size:50px;">**Mohamed Shaad**</span>, a passionate **Data Scientist** and **Machine Learning Engineer**. 
+Hi there! I'm <span style="font-size:50px;">Mohamed Shaad</span>, a passionate **Data Scientist** and **Machine Learning Engineer**. 
 
 # 🧑‍💻 What I Do:<br>
 I'm currently building data-driven solutions that enhance brand-influencer collaborations at [BrandCollab](https://brandcollab.app/).
