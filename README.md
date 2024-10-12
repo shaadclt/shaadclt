@@ -10,7 +10,7 @@ I'm currently building data-driven solutions that enhance brand-influencer colla
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mshaadk&icon=0&color=0" alt="Profile Visit Count">
+    <img src="https://visitcount.itsvg.in/api?id=shaadclt&icon=0&color=0" alt="Profile Visit Count">
   </a>
 </p>
 
