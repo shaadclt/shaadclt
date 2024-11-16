@@ -12,8 +12,8 @@ I'm currently building data-driven solutions that enhance brand-influencer colla
 ## Github Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shaadclt&theme=onedark&title=Stars,Followers,Repositories,Commits&no-bg=true" alt="GitHub Trophies">
-  </a>
+    <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=shaadclt&theme=onedark&title=Stars,Followers,Repositories,Commits&no-bg=true" alt="GitHub Trophies">
+  </a></div>
 </div>
 
 
