@@ -21,8 +21,6 @@ I'm currently building data-driven solutions that enhance brand-influencer colla
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shaadclt&show_icons=true&count_private=true&hide_border=true&hide=prs,issues,contribs&theme=dark" align="center" /></div>  <br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaadclt&hide_border=true&layout=compact&theme=dark" align="center" />  
-
 <br>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaadclt&theme=dark&hide_border=false" alt="GitHub Streak" /><br>
   <br>
