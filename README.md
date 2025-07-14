@@ -3,7 +3,7 @@ Hi there! I'm [**Mohamed Shaad**](https://www.linkedin.com/in/mohamedshaad/), a 
 
 
 # 🧑‍💻 What I Do:<br>
-I'm currently building data-driven solutions that enhance brand-influencer collaborations at [BrandCollab](https://brandcollab.app/).
+I'm currently building data-driven solutions that enhance brand-influencer collaborations at [Neuranize](https://www.neuranize.com/).
 
 
 # 💻 Tech Stack:
