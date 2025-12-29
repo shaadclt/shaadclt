@@ -1,9 +1,75 @@
-# 💫 About Me:
-Hi there! I'm [**Mohamed Shaad**](https://www.linkedin.com/in/mohamedshaad/), a passionate **Machine Learning Engineer**.
+# 👋 Hi, I’m Mohamed Shaad  
+**Machine Learning Engineer | AI Engineer | LLM & NLP Specialist**
 
+I’m a **Machine Learning Engineer** specializing in building **scalable, production-grade AI systems**. I focus on transforming complex data problems into **high-impact, real-world solutions** using modern machine learning, NLP, and large language models.
 
-# 🧑‍💻 What I Do:<br>
-I’m currently developing machine learning–driven solutions that optimize and enhance brand-influencer collaborations at [Neuranize](https://www.neuranize.com/).
+---
+
+## 🚀 What I Do  
+I currently work at **[Neuranize](https://www.neuranize.com/)**, where I design and deploy intelligent systems that power **brand–influencer discovery, ranking, and campaign optimization**.
+
+My work includes:
+- Designing **end-to-end machine learning pipelines**  
+- Building **LLM-powered systems** for automation, search, and recommendations  
+- Developing **scalable APIs and microservices**  
+- Translating business challenges into **production-ready ML solutions**
+
+---
+
+## 🧠 Core Skills & Technologies  
+
+### 🔹 Programming & Data
+- Python, SQL, JavaScript  
+- Pandas, NumPy  
+
+### 🔹 Machine Learning & AI
+- PyTorch, Scikit-learn  
+- Natural Language Processing (NLP)  
+- Transformers, Hugging Face  
+- Embeddings, Vector Search, RAG Pipelines  
+
+### 🔹 Backend & Deployment
+- FastAPI, Flask  
+- REST APIs, Async Processing  
+- Docker, CI/CD  
+
+### 🔹 Data & MLOps
+- MLflow, Model Evaluation & Monitoring  
+- PostgreSQL, MongoDB  
+- FAISS, Pinecone  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Interests & Focus Areas
+- Large Language Models (LLMs)  
+- Applied AI & ML Research  
+- Intelligent Automation & AI Agents  
+- Scalable AI Products  
+
+---
+
+## 🤝 Let’s Connect
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/mohamedshaad/  
+- 💼 Open to collaborations, research opportunities, and impactful AI projects  
+
+---
+
+### 🔍 SEO Keywords
+`Machine Learning Engineer`, `AI Engineer`, `NLP`, `LLM`, `PyTorch`, `FastAPI`, `LangChain`, `Data Science`, `Artificial Intelligence`, `MLOps`, `Deep Learning`, `AI Developer`, `Open Source`
+
 
 
 # 💻 Tech Stack:
