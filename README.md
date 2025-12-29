@@ -11,6 +11,7 @@ I’m currently developing machine learning–driven solutions that optimize and
 
 ## Github Trophies
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=shaadclt&theme=onedark&title=Stars,Followers,Repositories,Commits&no-bg=true" alt="GitHub Trophies"></div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaadclt&theme=onedark&no-frame=true" alt="Stats Trophies">
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shaadclt&show_icons=true&count_private=true&hide_border=true&hide=prs,issues,contribs&theme=dark" align="center" /></div>  <br>
